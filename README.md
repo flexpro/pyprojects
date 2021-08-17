@@ -11,6 +11,8 @@ pdftocsv.py: convert multi-page pdfs to excel files
 
 splitsheetcolumn.py: split a sheet to multiple sheet based on a column value
 
+vlookup.py: mimic the Excel VLOOKUP function
+
 
 
 
